@@ -7,7 +7,7 @@ res.redirect(`https://cryptons.ga/api/v1/youtube/download?url=${req.query.url}`)
 })
 app.get('/', (res, req) => {
 res.send({
-gay; "Why u even here?"
+gay: "Why u even here?"
 })
 })
 app.listen(3000, () => {
