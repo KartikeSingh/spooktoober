@@ -1,0 +1,1 @@
+# See this code working by [inviting my bot!](https://discord.com/api/oauth2/authorize?client_id=896186210458927134&permissions=3072&scope=bot) be fast though! This bot will be deleted the day after halloween!
