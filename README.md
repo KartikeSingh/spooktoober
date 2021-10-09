@@ -1,6 +1,8 @@
+# Event is ended.
+Winners will be announced in our [discord server](https://discord.gg/XYnMTQNTFh).
+
 # What is This ?
 It is an repository to show your programming skills and the winner will get a special role for this month in our [discord server](https://discord.gg/XYnMTQNTFh).
-
 You will also get a chance to create a AD on our server with everyone ping if you win this event.
 
 ## Note
