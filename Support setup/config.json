@@ -1,0 +1,30 @@
+
+{
+	"status": "",//status for your bot
+	"prefix": "!",//prefix you would like to use
+	"enable_slash": true,//enable if u want to use it as a slash cmd else set to false
+	"owners": ["890146474158075915"],//add you userid as only owner can use setup cmd 
+	"embed_content": {
+		"title": "",//title u want on help embed
+		"color": "DA004E",//any hex color without #
+		"thumbnail": false,//depends if u want thumbnail
+		"thumbnail_url": "https://media.discordapp.net/attachments/886910567418302546/894130754244735046/PicsArt_09-26-10.13.36.jpg",
+		"question_1": "1st question",
+		"question_2": "2nd ~",
+		"question_3": "3rd ~",
+		"question_4": "4th ~",
+		"question_5": "5th ~"
+	},
+	"responses": {
+		"response_1": "reply 1st",
+		"response_2": "reply 2nd",
+		"response_3": "reply 3rd",
+		"response_4": "reply 4th",
+		"response_5": "reply 5th"
+	},
+	"log_channel_id": "894936709559640074",//channel where bot send message when any button is pressed
+	"assistance_channel_id": "886960454772097055",//further-help section id
+	"assistance_role_id": "889087381670592562",//role given when someone use further help
+	"Important": " Role to be Added in above field and The Further Assistance Channel will visible so create a role and set perms",
+	"Note": "Fill All The Above.For new Line use \n.For new TabSpace use \t.HyperLink use (text)[link] it will appear blue & clickable"
+}
