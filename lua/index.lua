@@ -20,6 +20,7 @@ client:on('messageCreate', function(message)
     local id = member.id
     if content:lower() == prefix .. 'help' then
         message.channel:send('```help  shows this message\nfacts  shows halloween facts\nsource  the link for where the facts come from\ninvite  sends the bot invite```')
+--             Yes I didnt know what to do so I went with the default discord.py help format
     end
 end)
 
